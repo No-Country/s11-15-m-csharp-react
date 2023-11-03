@@ -4,8 +4,6 @@
 Comienza tu viaje lingüístico con Mate Speak, se parte de nuestra comunidad global y experimenta una forma emocionante y efectiva de aprender un nuevo idioma.<br>
 
 ## Equipo:
-=======
-
 
 | Rol               | Nombre               | Redes                                                                                                        |
 | :---------------- | :------------------- | :----------------------------------------------------------------------------------------------------------- |
