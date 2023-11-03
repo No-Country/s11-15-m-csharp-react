@@ -5,19 +5,19 @@ Comienza tu viaje lingüístico con Mate Speak, se parte de nuestra comunidad gl
 
 ## Equipo:
 
-| Rol               | Nombre               | Redes                                                                                                        |
-| :---------------- | :------------------- | :----------------------------------------------------------------------------------------------------------- |
-| `Project Manager` | Bruno Viscay         | [![GitHub]](https://github.com/BViscay) [![linkedin]](https://www.linkedin.com/in/bruno-viscay/)             |
-| `Testing`         | Juan Pablo Passadore | [![GitHub]]() [![linkedin]]()                                                                                |
-| `UX/UI Designer`  | Soledad Ramirez      | [![behance]]() [![linkedin]]()                                                                               |
-| `Front End`       | Juan Martín De Rosa  | [![GitHub]](https://github.com/juanmderosa) [![linkedin]](https://www.linkedin.com/in/juanmderosa/)          |
-| `Front End`       | Nicolás Ramirez      | [![GitHub]]() [![linkedin]]()                                                                                |
-| `Front End`       | Simón Montoya        | [![GitHub]]() [![linkedin]]()                                                                                |
-| `Front End`       | Sofía Costamagna     | [![GitHub]](https://github.com/sofiacostamagna) [![linkedin]](https://www.linkedin.com/in/sofia-costamagna/) |
-| `Back End`        | Ariel Jaime          | [![GitHub]]() [![linkedin]]()                                                                                |
-| `Back End`        | Deivison Jiménez     | [![GitHub]](https://github.com/Deivison81) [![linkedin]](https://www.linkedin.com/in/deivison-jimenez/)      |
-| `Back End`        | Nicolás Arteaga      | [![GitHub]]() [![linkedin]](https://www.linkedin.com/in/nicolasarteagadev/)                                  |
-| `Back End`        | Rodrigo Kohnen       | [![GitHub]](https://github.com/rodrikohnen) [![linkedin]](https://www.linkedin.com/in/rodrigo-kohnen)        |
+| Rol               | Nombre               | Redes                                                                                                                             |
+| :---------------- | :------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
+| `Project Manager` | Bruno Viscay         | [![GitHub]](https://github.com/BViscay) [![linkedin]](https://www.linkedin.com/in/bruno-viscay/)                                  |
+| `Testing`         | Juan Pablo Passadore | [![GitHub]]() [![linkedin]](https://www.linkedin.com/in/juan-pablo-passadore-denis-105349116/)                                    |
+| `UX/UI Designer`  | Soledad Ramirez      | [![behance]](https://www.behance.net/solramirez10) [![linkedin]](https://www.linkedin.com/in/soledad-ramirez-693997106)           |
+| `Front End`       | Juan Martín De Rosa  | [![GitHub]](https://github.com/juanmderosa) [![linkedin]](https://www.linkedin.com/in/juanmderosa/)                               |
+| `Front End`       | Nicolás Ramirez      | [![GitHub]](https://github.com/jramire5) [![linkedin]](https://www.linkedin.com/in/nicolasramire/)                                |
+| `Front End`       | Simón Montoya        | [![GitHub]](https://github.com/montoyitadevelp) [![linkedin]](https://www.linkedin.com/in/sim%C3%B3n-restrepo-montoya-071244249/) |
+| `Front End`       | Sofía Costamagna     | [![GitHub]](https://github.com/sofiacostamagna) [![linkedin]](https://www.linkedin.com/in/sofia-costamagna/)                      |
+| `Back End`        | Ariel Jaime          | [![GitHub]]() [![linkedin]]()                                                                                                     |
+| `Back End`        | Deivison Jiménez     | [![GitHub]](https://github.com/Deivison81) [![linkedin]](https://www.linkedin.com/in/deivison-jimenez/)                           |
+| `Back End`        | Nicolás Arteaga      | [![GitHub]](https://github.com/HesherDev) [![linkedin]](https://www.linkedin.com/in/nicolasarteagadev/)                           |
+| `Back End`        | Rodrigo Kohnen       | [![GitHub]](https://github.com/rodrikohnen) [![linkedin]](https://www.linkedin.com/in/rodrigo-kohnen)                             |
 
 
 ## Stack Tecnológico
