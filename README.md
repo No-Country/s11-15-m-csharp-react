@@ -35,7 +35,7 @@ Comienza tu viaje lingüístico con Mate Speak, se parte de nuestra comunidad gl
 
 
 ## Demo
-https://s11-15-m-csharp-react.vercel.app/
+https://s11-15-m-csharp-react.vercel.app
 
 [behance]: https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white
 [linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
